@@ -1,0 +1,37 @@
+
+### **1. What is the product’s name (your Mo-Something app)?**
+
+**MoReply** — an AI-powered auto-reply system designed to help small and medium-sized businesses manage customer engagement across platforms like Google Reviews, Yelp, Instagram, Facebook, X, and TikTok.
+
+---
+
+### **2. What is the function + connection?**
+
+MoReply connects with **MoSocial** (for managing customer messages and social media comments) and **MoLead** (for tracking customer interactions that can turn into sales opportunities).
+
+It functions as an **AI-style reply automation tool** that listens to incoming comments or reviews and instantly generates personalized, on-brand responses. The goal is to make every customer feel acknowledged without requiring constant manual attention from business owners.
+By connecting MoReply with MoSocial, responses can be sent directly where customers are most active, while MoLead can record those interactions as new engagement leads.
+
+---
+
+### **3. Why did you choose to make the product?**
+
+I chose to make **MoReply** because small businesses spend valuable time responding to repetitive customer comments and reviews.
+Many want to maintain an active, personal online presence — but replying manually to every comment is time-consuming.
+
+MoReply automates that process while still keeping replies human-sounding and tone-appropriate. It saves time, keeps customers engaged, and lets small business owners focus on operations instead of typing the same “Thank you!” messages all day.
+
+---
+
+### **4. Why would MoFlo clients (small and medium-sized businesses) be interested in and/or use this product?**
+
+MoFlo clients would be interested in MoReply because it offers a simple way to scale personalized communication.
+It gives them:
+
+* **Time savings** — no need to manually reply to every review or comment.
+* **Better engagement** — customers feel seen and appreciated through consistent, on-brand replies.
+* **Cross-platform reach** — works alongside MoSocial and MoLead, turning social interactions into measurable engagement data.
+* **Professional brand voice** — tones can be customized (Friendly, Professional, Playful, Apologetic) to match their business personality.
+
+In short, MoReply helps MoFlo clients maintain genuine one-on-one connections with customers — automatically.
+
