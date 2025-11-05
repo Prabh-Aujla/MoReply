@@ -37,4 +37,4 @@ yarn
 npm run dev
 
 #where to see the result
-http://localhost:3000
+http://localhost:3000/moreply
