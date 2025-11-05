@@ -35,3 +35,9 @@ It gives them:
 
 In short, MoReply helps MoFlo clients maintain genuine one-on-one connections with customers — automatically.
 
+### **5. What would you improve or change about your new product if you had more time or
+could work on it in the future?
+
+If I had more time to continue working on the product, I would make the reply system fully automated. 
+Instead of requiring someone to manually click "Generate Reply," I would train and fine-tune the model to automatically detect new reviews or comments and respond in real time. 
+This would turn MoReply into a true set-it-and-forget-it AI assistant, helping businesses engage with their customers instantly and consistently across all platforms.
